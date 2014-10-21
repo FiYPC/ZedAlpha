@@ -1,0 +1,10 @@
+c:\users\psykosis\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PsyConvert 4.exe.config
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PsyConvert 4.exe
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PsyConvert 4.pdb
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PsyConvert 4.xml
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PsyConvert 4.exe
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PsyConvert 4.xml
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PsyConvert 4.pdb
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Psyconvert4.Form1.resources
+C:\Users\psykosis\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Psyconvert4.Resources.resources
