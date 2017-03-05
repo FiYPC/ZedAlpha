@@ -2,22 +2,24 @@
 <doc>
 <assembly>
 <name>
-PsyConvert4
+PsyConvert 4
 </name>
 </assembly>
 <members>
+<member name="T:Psyconvert4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
 <member name="P:Psyconvert4.My.Resources.Resources.ResourceManager">
-	<summary>
+<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member><member name="P:Psyconvert4.My.Resources.Resources.Culture">
-	<summary>
+</member>
+<member name="P:Psyconvert4.My.Resources.Resources.Culture">
+<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:Psyconvert4.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 </members>
